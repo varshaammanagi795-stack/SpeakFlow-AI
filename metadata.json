@@ -1,0 +1,6 @@
+{
+  "name": "SpeakFlow AI",
+  "description": "Comprehensive Spoken English Learning Platform with AI speech analytics, interactive roleplay, live 1-on-1 tutoring simulation, phonetic visualizer, and adaptive CEFR progression.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
